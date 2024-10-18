@@ -50,7 +50,3 @@ A huge thanks to all our contributors for your support and dedication to this pr
 <a href="https://github.com/andoriyaprashant/CanSat/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=andoriyaprashant/CanSat" />
 </a>
-
----
-
-This structure should help guide new contributors effectively, outlining the steps and guidelines clearly.
